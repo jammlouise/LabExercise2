@@ -54,7 +54,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/backButton"
             android:layout_width="160dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="14dp"
@@ -63,11 +63,11 @@
             android:text="Back" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/nextButton"
             android:layout_width="160dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:layout_marginLeft="14dp"
+            android:layout_weight="0"
             android:text="Next" />
 
     </LinearLayout>
